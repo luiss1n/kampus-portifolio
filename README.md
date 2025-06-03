@@ -1,3 +1,5 @@
+Projeto Flask, aprendido, analisado e revisado durante minha aula, criado por @robsonkerner
+
 ## Portfólio - Projeto Flask
 Este projeto utiliza o framework Flask para desenvolvimento web em Python.
 
